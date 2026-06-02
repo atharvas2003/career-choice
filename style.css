@@ -203,18 +203,18 @@ body{
 
 /* MOBILE */
 
-@media(max-width:900px){
+@media (max-width:768px){
 
-    .stats-row{
-        grid-template-columns:1fr;
+    .domain-buttons{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:12px;
     }
 
-    .info-grid{
-        grid-template-columns:1fr;
-    }
-
-    .hero h1{
-        font-size:2rem;
+    .domain-btn{
+        width:140px;
+        height:80px;
     }
 
 }
