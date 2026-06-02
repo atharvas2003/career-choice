@@ -1,0 +1,16 @@
+{
+    "domains": [
+        {
+            "name": "Engineering(JEE/State Exam)",
+            "file": "engineering.json"
+        },
+        {
+            "name": "Medical(NEET)",
+            "file": "medical.json"
+        },
+        {
+            "name": "Business major(CUET/CBSE/ICSE/State Board)",
+            "file": "business.json"
+        }
+    ]
+}

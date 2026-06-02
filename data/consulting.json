@@ -1,0 +1,883 @@
+{
+    "domain": "Consulting",
+
+    "specializations": [
+        {
+  "name": "Management Consulting",
+
+  "summary": "Management Consultants help organizations solve business problems, improve performance, reduce costs, increase revenue, and execute strategic initiatives. Consultants work across industries and advise senior management on critical business decisions.",
+
+  "difficulty": "Very Hard",
+
+  "goals": [
+    "Solve complex business problems",
+    "Improve organizational performance",
+    "Support strategic decision-making",
+    "Drive business transformation",
+    "Create measurable business impact"
+  ],
+
+  "bestFor": [
+    "High achievers",
+    "Problem solvers",
+    "Analytical thinkers",
+    "People who enjoy learning rapidly",
+    "Individuals comfortable working under pressure"
+  ],
+
+  "avoidIf": [
+    "You dislike presentations",
+    "You want predictable working hours",
+    "You dislike client-facing work",
+    "You prefer deep specialization in one field",
+    "You dislike frequent travel"
+  ],
+
+  "requiredSkills": [
+    "Problem Solving",
+    "Business Analysis",
+    "Structured Thinking",
+    "Excel",
+    "PowerPoint",
+    "Communication",
+    "Stakeholder Management",
+    "Research"
+  ],
+
+  "collegeImportance": [
+    "Very High",
+    "Top consulting firms heavily recruit from target colleges",
+    "MBA from top institutions can significantly improve access",
+    "Prestige and alumni networks matter more than most industries"
+  ],
+
+  "familyAdvantage": [
+    "Limited direct advantage",
+    "Professional networks can help secure interviews",
+    "Business family background can improve business understanding",
+    "Referrals can help but performance is what matters"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "MBA from a top institution (common but not mandatory)",
+    "Strong academic record",
+    "Case interview preparation"
+  ],
+
+  "realityCheck": [
+    "Consulting is not just giving advice; much of the work involves research, analysis, and presentations",
+    "Junior consultants spend significant time building slides and analyzing data",
+    "Travel can be frequent depending on the firm and project",
+    "Client demands often create long working hours",
+    "The learning curve is extremely steep during the first few years",
+    "Burnout is not uncommon"
+  ],
+
+  "careerGrowth": [
+    "Business Analyst",
+    "Associate Consultant",
+    "Consultant",
+    "Engagement Manager",
+    "Principal",
+    "Partner",
+    "Senior Partner"
+  ],
+
+  "salary": {
+    "entry": "₹12-25 LPA",
+    "mid": "₹30-70 LPA",
+    "senior": "₹1 Cr - ₹5 Cr+"
+    
+  },
+
+  "dayToDayWork": [
+    "Conducting industry research",
+    "Analyzing company data",
+    "Building business cases",
+    "Creating PowerPoint presentations",
+    "Interviewing stakeholders",
+    "Meeting clients",
+    "Presenting recommendations",
+    "Supporting implementation projects"
+  ],
+
+  "challenges": [
+    "Long working hours",
+    "Constant deadlines",
+    "Difficult clients",
+    "Frequent travel",
+    "High performance expectations",
+    "Need to learn new industries quickly"
+  ],
+
+  "roadmap": [
+    "Build strong analytical and communication skills",
+    "Master Excel and PowerPoint",
+    "Learn business fundamentals",
+    "Practice case interviews extensively",
+    "Secure internships in consulting or related fields",
+    "Join a consulting firm and develop industry expertise"
+  ],
+
+  "exitOpportunities": [
+    "Corporate Strategy",
+    "Private Equity",
+    "Venture Capital",
+    "Product Management",
+    "Corporate Development",
+    "General Management",
+    "Startups",
+    "Entrepreneurship",
+    "Executive Leadership Roles"
+  ],
+
+  "futureOutlook": [
+    "Strong demand for transformation and strategy projects",
+    "AI will automate some analysis but not client relationships and problem solving",
+    "Digital transformation continues to create consulting opportunities",
+    "Competition for top firms will remain intense",
+    "Excellent platform for future leadership roles"
+  ],
+
+  "recommendedResource": [
+    "Case in Point",
+    "The McKinsey Way",
+    "Victor Cheng Case Interview Secrets",
+    "Management Consulted",
+    "Harvard Business Review"
+  ]
+},
+{
+  "name": "Technology Consulting",
+
+  "summary": "Technology Consultants help organizations use technology to solve business problems, improve efficiency, reduce costs, and drive digital transformation. They bridge the gap between business stakeholders and technical teams by designing, implementing, and optimizing technology solutions.",
+
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Drive digital transformation",
+    "Improve business processes using technology",
+    "Implement enterprise software solutions",
+    "Reduce operational inefficiencies",
+    "Support technology strategy",
+    "Improve organizational productivity"
+  ],
+
+  "bestFor": [
+    "People who enjoy both business and technology",
+    "Problem solvers",
+    "Strong communicators",
+    "Individuals interested in digital transformation",
+    "People who enjoy client-facing work"
+  ],
+
+  "avoidIf": [
+    "You dislike technology",
+    "You want deep software engineering work",
+    "You dislike client interaction",
+    "You dislike presentations",
+    "You prefer purely technical roles"
+  ],
+
+  "requiredSkills": [
+    "Business Analysis",
+    "Technology Fundamentals",
+    "Project Management",
+    "Stakeholder Management",
+    "Communication",
+    "Problem Solving",
+    "Excel",
+    "Data Analysis"
+  ],
+
+  "collegeImportance": [
+    "Moderate",
+    "Engineering and business degrees are common",
+    "Top colleges help secure consulting interviews",
+    "Skills and project experience become more important over time"
+  ],
+
+  "familyAdvantage": [
+    "Limited advantage",
+    "Technology industry exposure helps",
+    "Professional network can help with opportunities",
+    "Performance drives long-term success"
+  ],
+
+  "qualifications": [
+    "Engineering Degree",
+    "Computer Science",
+    "Information Technology",
+    "MBA (optional)",
+    "Cloud Certifications",
+    "SAP, Salesforce, Oracle Certifications"
+  ],
+
+  "realityCheck": [
+    "Most technology consultants are not coding all day",
+    "A large portion of the job involves meetings, workshops, and stakeholder management",
+    "Clients often care about business outcomes more than technology itself",
+    "Travel can be significant depending on the firm",
+    "Implementation projects can be stressful near deadlines",
+    "Technology Consulting is often consulting first, technology second"
+  ],
+
+  "careerGrowth": [
+    "Business Analyst",
+    "Technology Analyst",
+    "Technology Consultant",
+    "Senior Consultant",
+    "Manager",
+    "Senior Manager",
+    "Director",
+    "Partner"
+  ],
+
+  "salary": {
+    "entry": "₹6-15 LPA",
+    "mid": "₹15-35 LPA",
+    "senior": "₹40 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Meeting clients",
+    "Gathering business requirements",
+    "Designing technology solutions",
+    "Managing implementation projects",
+    "Preparing presentations",
+    "Coordinating with technical teams",
+    "Conducting workshops",
+    "Tracking project progress"
+  ],
+
+  "challenges": [
+    "Managing difficult stakeholders",
+    "Changing client requirements",
+    "Project delays",
+    "Balancing business and technical needs",
+    "Tight implementation deadlines",
+    "Learning new technologies constantly"
+  ],
+
+  "roadmap": [
+    "Build technology fundamentals",
+    "Learn business analysis",
+    "Understand enterprise software",
+    "Develop communication skills",
+    "Gain consulting or technology project experience",
+    "Specialize in a technology domain"
+  ],
+
+  "exitOpportunities": [
+    "Product Management",
+    "Program Management",
+    "Technology Strategy",
+    "Business Operations",
+    "Enterprise Architecture",
+    "Digital Transformation Leadership",
+    "Startup Leadership"
+  ],
+
+  "futureOutlook": [
+    "Digital transformation spending continues to grow globally",
+    "AI adoption is creating new consulting opportunities",
+    "Cloud migration remains a major market",
+    "Technology consulting demand remains strong across industries",
+    "Excellent long-term growth prospects"
+  ],
+
+  "recommendedResource": [
+    "Case in Point",
+    "The Phoenix Project",
+    "AWS Cloud Practitioner",
+    "Salesforce Trailhead",
+    "Accenture Technology Learning Resources"
+  ]
+},
+{
+  "name": "Operations Consulting",
+
+  "summary": "Operations Consultants help organizations improve efficiency, reduce costs, optimize processes, enhance productivity, and improve overall business performance. They focus on how businesses operate rather than what businesses sell.",
+  
+  "difficulty": "Hard",
+
+  "goals": [
+    "Improve operational efficiency",
+    "Reduce business costs",
+    "Increase productivity",
+    "Optimize supply chains",
+    "Improve customer experience",
+    "Drive operational transformation"
+  ],
+
+  "bestFor": [
+    "Problem solvers",
+    "Analytical thinkers",
+    "People who enjoy improving systems",
+    "Engineers interested in business",
+    "Future business leaders"
+  ],
+
+  "avoidIf": [
+    "You dislike data analysis",
+    "You dislike client-facing work",
+    "You want purely technical engineering work",
+    "You dislike presentations",
+    "You dislike structured problem solving"
+  ],
+
+  "requiredSkills": [
+    "Problem Solving",
+    "Business Analysis",
+    "Process Mapping",
+    "Excel",
+    "Data Analysis",
+    "Project Management",
+    "Communication",
+    "Stakeholder Management"
+  ],
+
+  "collegeImportance": [
+    "High",
+    "Top MBA and engineering colleges have a strong advantage",
+    "Consulting firms heavily recruit from target campuses",
+    "Brand matters significantly during entry-level hiring"
+  ],
+
+  "familyAdvantage": [
+    "Minimal advantage",
+    "Consulting is highly meritocratic",
+    "Networking can help but performance determines growth"
+  ],
+
+  "qualifications": [
+    "Engineering Degree",
+    "MBA (preferred for top firms)",
+    "Operations Knowledge",
+    "Supply Chain Knowledge",
+    "Lean Six Sigma (helpful)"
+  ],
+
+  "realityCheck": [
+    "You recommend solutions but usually don't own implementation",
+    "Many projects involve PowerPoint and Excel more than people expect",
+    "Client management is as important as analysis",
+    "Travel may be significant",
+    "Deadlines can be intense",
+    "The work is often broader than a traditional operations role"
+  ],
+
+  "careerGrowth": [
+    "Business Analyst",
+    "Consultant",
+    "Senior Consultant",
+    "Manager",
+    "Senior Manager",
+    "Director",
+    "Partner"
+  ],
+
+  "salary": {
+    "entry": "₹8-18 LPA",
+    "mid": "₹20-50 LPA",
+    "senior": "₹60 LPA - ₹2 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Analyzing business processes",
+    "Conducting client interviews",
+    "Building Excel models",
+    "Creating presentations",
+    "Identifying inefficiencies",
+    "Designing improvement initiatives",
+    "Facilitating workshops",
+    "Presenting recommendations to management"
+  ],
+
+  "challenges": [
+    "Complex client problems",
+    "Tight project timelines",
+    "Managing stakeholders",
+    "Resistance to change",
+    "Large-scale transformation projects",
+    "Balancing analysis with practicality"
+  ],
+
+  "roadmap": [
+    "Develop strong problem-solving skills",
+    "Learn business operations fundamentals",
+    "Master Excel and PowerPoint",
+    "Study supply chain and process improvement",
+    "Prepare for consulting case interviews",
+    "Gain consulting or operational experience"
+  ],
+
+  "exitOpportunities": [
+    "Operations Management",
+    "Supply Chain Leadership",
+    "General Management",
+    "Strategy Roles",
+    "Private Equity Operations Teams",
+    "COO Track",
+    "Entrepreneurship"
+  ],
+
+  "futureOutlook": [
+    "Companies continue investing in operational efficiency",
+    "Supply chain optimization remains a major priority",
+    "Digital operations transformation is accelerating",
+    "Strong demand across manufacturing, retail, healthcare, and technology",
+    "Excellent long-term growth opportunities"
+  ],
+
+  "recommendedResource": [
+    "Case in Point",
+    "The Goal by Eliyahu Goldratt",
+    "Lean Thinking",
+    "Operations Management by Stevenson",
+    "Victor Cheng Case Interview Resources"
+  ]
+},
+{
+  "name": "Human Resource Consulting",
+
+  "summary": "Human Resource Consultants help organizations improve workforce performance, talent management, compensation structures, organizational design, leadership development, and employee experience. They advise companies on how to attract, develop, retain, and manage people more effectively.",
+  
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Improve workforce performance",
+    "Optimize organizational structures",
+    "Develop leadership capabilities",
+    "Improve employee engagement",
+    "Design compensation systems",
+    "Support business growth through people strategy"
+  ],
+
+  "bestFor": [
+    "People interested in business and human behavior",
+    "Strong communicators",
+    "Relationship builders",
+    "Individuals interested in leadership development",
+    "People who enjoy solving organizational problems"
+  ],
+
+  "avoidIf": [
+    "You dislike working with people",
+    "You prefer quantitative careers",
+    "You dislike presentations and workshops",
+    "You prefer technical work",
+    "You dislike stakeholder management"
+  ],
+
+  "requiredSkills": [
+    "Communication",
+    "Stakeholder Management",
+    "Presentation Skills",
+    "Organizational Design",
+    "Talent Management",
+    "Business Analysis",
+    "Problem Solving",
+    "Project Management"
+  ],
+
+  "collegeImportance": [
+    "Moderate to High",
+    "Top MBA programs often have an advantage",
+    "Psychology and HR backgrounds are common",
+    "Consulting skills become more important over time"
+  ],
+
+  "familyAdvantage": [
+    "Minimal advantage",
+    "Corporate exposure helps",
+    "Professional network may support entry",
+    "Performance determines long-term success"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "MBA HR",
+    "Psychology Degree",
+    "Human Resource Certifications",
+    "SHRM Certification (optional)"
+  ],
+
+  "realityCheck": [
+    "The role is far more strategic than traditional HR",
+    "You advise senior executives on workforce decisions",
+    "Many projects involve change management and organizational transformation",
+    "Client management is a major part of the job",
+    "Implementation challenges are often people-related rather than technical",
+    "Success depends heavily on communication and influence"
+  ],
+
+  "careerGrowth": [
+    "HR Analyst",
+    "HR Consultant",
+    "Senior Consultant",
+    "Manager",
+    "Senior Manager",
+    "Director",
+    "Partner"
+  ],
+
+  "salary": {
+    "entry": "₹6-12 LPA",
+    "mid": "₹15-35 LPA",
+    "senior": "₹40 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Meeting clients",
+    "Conducting employee and leadership interviews",
+    "Designing HR frameworks",
+    "Analyzing workforce data",
+    "Building presentations",
+    "Running workshops",
+    "Supporting organizational change initiatives",
+    "Presenting recommendations to executives"
+  ],
+
+  "challenges": [
+    "Resistance to organizational change",
+    "Managing diverse stakeholders",
+    "Balancing employee and business needs",
+    "Leadership alignment issues",
+    "Cultural transformation projects",
+    "Measuring people-related outcomes"
+  ],
+
+  "roadmap": [
+    "Learn HR fundamentals",
+    "Understand organizational behavior",
+    "Develop consulting and communication skills",
+    "Learn workforce analytics",
+    "Gain HR or consulting experience",
+    "Specialize in talent, compensation, or organizational transformation"
+  ],
+
+  "exitOpportunities": [
+    "HR Business Partner",
+    "Talent Management",
+    "Leadership Development",
+    "Compensation & Benefits",
+    "Chief Human Resources Officer (CHRO)",
+    "General Management",
+    "Executive Coaching"
+  ],
+
+  "futureOutlook": [
+    "Workforce transformation remains a major corporate priority",
+    "AI is changing talent and workforce management",
+    "Employee experience is becoming increasingly important",
+    "Organizations continue investing in leadership development",
+    "Strong demand for strategic HR expertise"
+  ],
+
+  "recommendedResource": [
+    "SHRM Learning Resources",
+    "The First 90 Days",
+    "Drive by Daniel Pink",
+    "Good to Great",
+    "Human Capital Consulting Reports by Mercer"
+  ]
+},
+{
+  "name": "Financial Advisory",
+
+  "summary": "Financial Advisory professionals help companies, investors, and institutions make major financial decisions such as mergers, acquisitions, valuations, due diligence, restructuring, fundraising, and business transactions. The role sits between consulting and investment banking.",
+  
+  "difficulty": "Hard",
+
+  "goals": [
+    "Support M&A transactions",
+    "Determine company valuations",
+    "Conduct financial due diligence",
+    "Advise on business restructuring",
+    "Support investment decisions",
+    "Help clients maximize transaction value"
+  ],
+
+  "bestFor": [
+    "Finance enthusiasts",
+    "Analytical thinkers",
+    "People interested in M&A",
+    "Professionals who enjoy financial modelling",
+    "Individuals interested in corporate transactions"
+  ],
+
+  "avoidIf": [
+    "You dislike accounting",
+    "You dislike Excel-heavy work",
+    "You want highly creative work",
+    "You dislike financial analysis",
+    "You dislike deadlines"
+  ],
+
+  "requiredSkills": [
+    "Financial Modelling",
+    "Valuation",
+    "Accounting",
+    "Excel",
+    "PowerPoint",
+    "Due Diligence",
+    "Financial Statement Analysis",
+    "Business Analysis"
+  ],
+
+  "collegeImportance": [
+    "High",
+    "Target schools and top colleges help significantly",
+    "CA, CFA, and MBA candidates are common",
+    "Technical finance skills remain critical"
+  ],
+
+  "familyAdvantage": [
+    "Finance industry exposure",
+    "Corporate network",
+    "Professional services background",
+    "Investment industry connections"
+  ],
+
+  "qualifications": [
+    "B.Com",
+    "BBA",
+    "Economics",
+    "CA",
+    "CFA",
+    "MBA Finance",
+    "Finance-related Degrees"
+  ],
+
+  "realityCheck": [
+    "Many projects involve Excel and PowerPoint for long hours",
+    "Deadlines can become intense during transactions",
+    "You often work on confidential deals",
+    "The role is less prestigious than investment banking but often offers better work-life balance",
+    "Accounting knowledge is extremely important",
+    "Client expectations can be demanding"
+  ],
+
+  "careerGrowth": [
+    "Analyst",
+    "Associate",
+    "Senior Associate",
+    "Manager",
+    "Director",
+    "Partner",
+    "Transaction Advisory Leader"
+  ],
+
+  "salary": {
+    "entry": "₹6-15 LPA",
+    "mid": "₹15-40 LPA",
+    "senior": "₹50 LPA - ₹2 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Building financial models",
+    "Conducting company valuations",
+    "Performing due diligence",
+    "Analyzing financial statements",
+    "Preparing client presentations",
+    "Supporting M&A transactions",
+    "Reviewing business performance",
+    "Coordinating with lawyers and bankers"
+  ],
+
+  "challenges": [
+    "Transaction deadlines",
+    "Large amounts of financial data",
+    "Complex accounting issues",
+    "Client pressure",
+    "Unpredictable deal timelines",
+    "High attention to detail requirements"
+  ],
+
+  "roadmap": [
+    "Learn accounting thoroughly",
+    "Master Excel and valuation",
+    "Develop financial modelling skills",
+    "Learn M&A concepts",
+    "Pursue CA, CFA, or MBA Finance",
+    "Join transaction advisory or valuation teams"
+  ],
+
+  "exitOpportunities": [
+    "Investment Banking",
+    "Private Equity",
+    "Corporate Development",
+    "Corporate Finance",
+    "Valuation Advisory",
+    "Transaction Services",
+    "CFO Track"
+  ],
+
+  "futureOutlook": [
+    "M&A activity continues globally",
+    "Companies increasingly require transaction support",
+    "Valuation and due diligence remain essential services",
+    "Strong demand in consulting and finance firms",
+    "Excellent long-term opportunities"
+  ],
+
+  "recommendedResource": [
+    "Investment Banking by Rosenbaum & Pearl",
+    "Damodaran Valuation",
+    "Wall Street Prep",
+    "Corporate Finance Institute (CFI)",
+    "Financial Modelling Courses"
+  ]
+},
+{
+  "name": "Supply Chain Consulting",
+
+  "summary": "Supply Chain Consultants help organizations optimize the flow of materials, products, information, and resources from suppliers to customers. They improve procurement, inventory management, logistics, planning, manufacturing, and distribution to reduce costs and improve efficiency.",
+  
+  "difficulty": "Hard",
+
+  "goals": [
+    "Reduce supply chain costs",
+    "Improve operational efficiency",
+    "Optimize inventory levels",
+    "Improve forecasting accuracy",
+    "Increase supply chain resilience",
+    "Enhance customer service levels"
+  ],
+
+  "bestFor": [
+    "Analytical thinkers",
+    "Engineers interested in business",
+    "Problem solvers",
+    "People who enjoy operations and logistics",
+    "Individuals interested in large-scale business systems"
+  ],
+
+  "avoidIf": [
+    "You dislike data analysis",
+    "You dislike operational details",
+    "You prefer creative careers",
+    "You dislike client-facing work",
+    "You dislike Excel-heavy analysis"
+  ],
+
+  "requiredSkills": [
+    "Supply Chain Management",
+    "Inventory Management",
+    "Demand Forecasting",
+    "Excel",
+    "Data Analytics",
+    "Procurement Knowledge",
+    "Process Improvement",
+    "Project Management"
+  ],
+
+  "collegeImportance": [
+    "Moderate to High",
+    "Engineering and MBA Operations backgrounds are common",
+    "Top consulting firms recruit from leading colleges",
+    "Domain expertise becomes increasingly important over time"
+  ],
+
+  "familyAdvantage": [
+    "Manufacturing exposure",
+    "Supply chain background",
+    "Business ownership",
+    "Industry network",
+    "Operations experience"
+  ],
+
+  "qualifications": [
+    "Engineering Degree",
+    "MBA Operations",
+    "MBA Supply Chain",
+    "APICS CSCP",
+    "Lean Six Sigma",
+    "Supply Chain Certifications"
+  ],
+
+  "realityCheck": [
+    "Most projects involve data, Excel, and process analysis",
+    "Clients usually hire consultants when their supply chain is underperforming",
+    "Supply chain disruptions create enormous pressure",
+    "Many recommendations require organizational change",
+    "The work combines strategy and execution",
+    "Industry knowledge becomes extremely valuable"
+  ],
+
+  "careerGrowth": [
+    "Business Analyst",
+    "Supply Chain Analyst",
+    "Consultant",
+    "Senior Consultant",
+    "Manager",
+    "Senior Manager",
+    "Director",
+    "Partner"
+  ],
+
+  "salary": {
+    "entry": "₹8-18 LPA",
+    "mid": "₹20-50 LPA",
+    "senior": "₹60 LPA - ₹2 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Analyzing supply chain data",
+    "Studying logistics networks",
+    "Reviewing inventory performance",
+    "Meeting clients",
+    "Building Excel models",
+    "Preparing presentations",
+    "Designing supply chain improvements",
+    "Presenting recommendations to executives"
+  ],
+
+  "challenges": [
+    "Complex supply networks",
+    "Demand uncertainty",
+    "Supply disruptions",
+    "Client resistance to change",
+    "Large data sets",
+    "Cross-functional coordination"
+  ],
+
+  "roadmap": [
+    "Learn supply chain fundamentals",
+    "Master Excel and analytics",
+    "Understand procurement and logistics",
+    "Study inventory and forecasting concepts",
+    "Gain operational or consulting experience",
+    "Develop expertise in supply chain transformation"
+  ],
+
+  "exitOpportunities": [
+    "Supply Chain Manager",
+    "Operations Manager",
+    "Procurement Leadership",
+    "Logistics Leadership",
+    "Operations Consulting",
+    "General Management",
+    "COO Track"
+  ],
+
+  "futureOutlook": [
+    "Supply chains are becoming increasingly strategic",
+    "Global disruptions have increased consulting demand",
+    "AI and analytics are transforming planning processes",
+    "E-commerce growth increases supply chain complexity",
+    "Excellent long-term growth prospects"
+  ],
+
+  "recommendedResource": [
+    "Supply Chain Management by Sunil Chopra",
+    "The Goal by Eliyahu Goldratt",
+    "APICS CSCP",
+    "MIT Supply Chain Courses",
+    "Lean Thinking"
+  ]
+}
+     ]
+}

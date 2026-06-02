@@ -1,0 +1,70 @@
+
+  name = B2B SaaS, 
+  summary, 
+  difficulty, 
+  goals, 
+  bestFor, 
+  avoidFf, 
+  requiredSkills, 
+  collegeFmportance, 
+  familyAdvantage, 
+  qualifications, 
+  realityCheck, 
+  careerGrowth, 
+  salary, 
+  dayToDayWork, 
+  challenges, 
+  roadmap, 
+  exitOpportuities, 
+  futureOutlook, 
+  recommendedResource
+
+Brand Manager
+Digital Marketing Manager
+Growth Marketing Manager
+Product Marketing Manager
+Business Development Manager
+Software Sales (SaaS Sales)
+Enterprise Sales
+Account Executive
+Sales Engineer
+Revenue Operations
+
+Risk & Compliance
+├── Risk Management
+├── Credit Risk Analyst
+├── Market Risk Analyst
+├── Compliance Officer
+├── AML / KYC Analyst
+├── Internal Auditor
+├── Company Secretary (CS)
+├── Cyber Risk Analyst
+└── Chief Risk Officer (Long-term path)
+
+Supply Chain & Operations
+│
+├── Operations Manager
+├── Procurement Manager
+├── Supply Chain Manager
+├── Logistics Manager
+├── Supply Chain Analyst
+├── Manufacturing Operations Manager
+├── Inventory Manager
+├── Quality Manager
+└── Chief Operating Officer (COO)
+
+Consulting
+│
+├── Management Consulting 
+├── Strategy Consulting 
+├── Technology Consulting 
+├── Operations Consulting 
+├── Human Capital / HR Consulting
+├── Risk Consulting
+├── Financial Advisory / Deals Consulting
+├── Healthcare Consulting
+├── Supply Chain Consulting
+├── ESG / Sustainability Consulting
+└── Independent Consultant
+
+

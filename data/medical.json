@@ -1,0 +1,672 @@
+{
+  "domain": "Medical",
+
+  "specializations": [
+
+    {
+  "name": "General Physician",
+
+  "summary": "A General Physician is a medical doctor who diagnoses, treats, and manages a wide range of illnesses and health conditions in patients. They are often the first point of contact in healthcare and provide preventive, diagnostic, and long-term care.",
+
+  "difficulty": "Very Hard",
+
+  "goals": [
+    "Diagnose medical conditions",
+    "Treat patients",
+    "Promote preventive healthcare",
+    "Manage chronic diseases"
+  ],
+
+  "bestFor": [
+    "Students passionate about medicine",
+    "People who enjoy helping others",
+    "Strong science students",
+    "Individuals comfortable making critical decisions"
+  ],
+
+  "avoidIf": [
+    "You dislike biology",
+    "You are uncomfortable dealing with illness and suffering",
+    "You want a short education path",
+    "You dislike high-responsibility professions"
+  ],
+
+  "requiredSkills": [
+    "Clinical Diagnosis",
+    "Patient Communication",
+    "Medical Knowledge",
+    "Decision Making",
+    "Empathy",
+    "Attention to Detail"
+  ],
+
+  "collegeImportance": [
+    "Extremely important",
+    "Medical college quality impacts training exposure",
+    "Hospital affiliations provide practical experience"
+  ],
+
+  "familyAdvantage": [
+    "Family-owned hospital or clinic",
+    "Medical practitioner network",
+    "Healthcare industry connections",
+    "Established patient base"
+  ],
+
+  "qualifications": [
+    "MBBS",
+    "Medical License/Registration",
+    "MD General Medicine (optional but preferred)",
+    "Continuous Medical Education"
+  ],
+
+  "realityCheck": [
+    "Long and demanding education journey",
+    "Heavy workload during training",
+    "Patients may not always recover",
+    "Continuous studying throughout career",
+    "High responsibility and accountability"
+  ],
+
+  "careerGrowth": [
+    "Medical Intern",
+    "Junior Resident",
+    "General Physician",
+    "Senior Physician",
+    "Consultant",
+    "Clinic Owner / Hospital Administrator"
+  ],
+
+  "salary": {
+    "entry": "₹6-12 LPA",
+    "mid": "₹15-30 LPA",
+    "senior": "₹30+ LPA"
+  },
+
+  "dayToDayWork": [
+    "Consulting patients",
+    "Diagnosing illnesses",
+    "Prescribing medications",
+    "Reviewing test reports",
+    "Monitoring patient progress",
+    "Maintaining medical records"
+  ],
+
+  "challenges": [
+    "Long working hours",
+    "Emotional stress",
+    "Medical emergencies",
+    "Patient expectations",
+    "Legal and ethical responsibilities"
+  ],
+
+  "roadmap": [
+    "Complete 10+2 with PCB",
+    "Clear NEET",
+    "Earn MBBS degree",
+    "Complete internship",
+    "Obtain medical registration",
+    "Start practice or pursue MD"
+  ],
+
+  "exitOpportunities": [
+    "Hospital Administration",
+    "Healthcare Management",
+    "Medical Research",
+    "Public Health",
+    "Medical Education",
+    "Pharmaceutical Industry",
+    "Healthcare Consulting"
+  ],
+
+  "futureOutlook": [
+    "Strong and stable demand",
+    "Growing healthcare needs due to aging population",
+    "Expansion of private healthcare",
+    "Telemedicine creating new opportunities",
+    "Excellent long-term career security"
+  ],
+
+  "recommendedResource": [
+    "NCERT Biology",
+    "Marrow",
+    "PrepLadder",
+    "Harrison's Principles of Internal Medicine",
+    "NEET and MBBS Standard Textbooks"
+  ]
+},
+   {
+  "name": "Dermatologist",
+
+  "summary": "A Dermatologist is a medical specialist who diagnoses and treats conditions related to the skin, hair, nails, and cosmetic appearance. They manage both medical and aesthetic dermatology treatments.",
+
+  "difficulty": "Very Hard",
+
+  "goals": [
+    "Diagnose skin disorders",
+    "Treat skin, hair, and nail conditions",
+    "Perform cosmetic procedures",
+    "Improve patient health and appearance"
+  ],
+
+  "bestFor": [
+    "Students passionate about medicine",
+    "People interested in skin health and aesthetics",
+    "Individuals with strong attention to detail",
+    "Those who enjoy patient interaction"
+  ],
+
+  "avoidIf": [
+    "You dislike biology and medicine",
+    "You want a short education path",
+    "You dislike dealing with patients",
+    "You are uncomfortable with clinical practice"
+  ],
+
+  "requiredSkills": [
+    "Clinical Diagnosis",
+    "Dermatological Knowledge",
+    "Patient Communication",
+    "Attention to Detail",
+    "Procedural Skills",
+    "Aesthetic Assessment"
+  ],
+
+  "collegeImportance": [
+    "Extremely important",
+    "Top medical colleges improve residency opportunities",
+    "Strong hospital exposure is valuable"
+  ],
+
+  "familyAdvantage": [
+    "Family-owned clinic or hospital",
+    "Established patient network",
+    "Medical industry connections",
+    "Existing dermatology practice"
+  ],
+
+  "qualifications": [
+    "MBBS",
+    "MD/DNB Dermatology",
+    "Medical Registration",
+    "Fellowships in Cosmetic Dermatology (optional)"
+  ],
+
+  "realityCheck": [
+    "Requires years of education and specialization",
+    "MD Dermatology seats are highly competitive",
+    "Building a private practice takes time",
+    "Cosmetic procedures often require additional training"
+  ],
+
+  "careerGrowth": [
+    "Medical Intern",
+    "Junior Resident",
+    "Dermatology Resident",
+    "Consultant Dermatologist",
+    "Senior Consultant",
+    "Clinic Owner / Medical Director"
+  ],
+
+  "salary": {
+    "entry": "₹10-20 LPA",
+    "mid": "₹20-50 LPA",
+    "senior": "₹50 LPA+"
+  },
+
+  "dayToDayWork": [
+    "Consulting patients",
+    "Diagnosing skin conditions",
+    "Prescribing treatments",
+    "Performing skin procedures",
+    "Conducting cosmetic treatments",
+    "Reviewing patient progress"
+  ],
+
+  "challenges": [
+    "Highly competitive specialization",
+    "Patient expectations can be unrealistic",
+    "Constant advances in treatment methods",
+    "Building reputation and trust",
+    "Managing cosmetic and medical cases"
+  ],
+
+  "roadmap": [
+    "Complete 10+2 with PCB",
+    "Clear NEET",
+    "Earn MBBS degree",
+    "Complete internship",
+    "Clear NEET PG",
+    "Complete MD/DNB Dermatology",
+    "Gain clinical experience or start private practice"
+  ],
+
+  "exitOpportunities": [
+    "Cosmetic Dermatology",
+    "Aesthetic Medicine",
+    "Medical Research",
+    "Medical Education",
+    "Hospital Administration",
+    "Pharmaceutical Industry",
+    "Healthcare Entrepreneurship"
+  ],
+
+  "futureOutlook": [
+    "Strong demand for both medical and cosmetic dermatology",
+    "Growing skincare awareness",
+    "Rapid expansion of aesthetic clinics",
+    "High earning potential in private practice",
+    "Excellent long-term career prospects"
+  ],
+
+  "recommendedResource": [
+    "NCERT Biology",
+    "Marrow",
+    "PrepLadder",
+    "Fitzpatrick's Dermatology",
+    "Andrews' Diseases of the Skin"
+  ]
+},
+  {
+  "name": "Psychiatrist",
+
+  "summary": "A Psychiatrist is a medical doctor who specializes in diagnosing, treating, and preventing mental health disorders using psychotherapy, medication, and other evidence-based treatments.",
+
+  "difficulty": "Very Hard",
+
+  "goals": [
+    "Diagnose mental health conditions",
+    "Improve patients' quality of life",
+    "Treat psychiatric disorders",
+    "Support long-term mental wellbeing"
+  ],
+
+  "bestFor": [
+    "Students interested in medicine and human behavior",
+    "Empathetic listeners",
+    "People who enjoy patient interaction",
+    "Individuals interested in mental health"
+  ],
+
+  "avoidIf": [
+    "You dislike biology and medicine",
+    "You are uncomfortable discussing emotional issues",
+    "You want a short education path",
+    "You prefer minimal patient interaction"
+  ],
+
+  "requiredSkills": [
+    "Clinical Diagnosis",
+    "Active Listening",
+    "Empathy",
+    "Communication",
+    "Critical Thinking",
+    "Emotional Resilience"
+  ],
+
+  "collegeImportance": [
+    "Very important for MBBS and residency opportunities",
+    "Strong hospital exposure improves clinical training",
+    "Top institutions provide better psychiatric case exposure"
+  ],
+
+  "familyAdvantage": [
+    "Family-owned clinic or hospital",
+    "Medical practitioner network",
+    "Healthcare industry connections",
+    "Established patient referral network"
+  ],
+
+  "qualifications": [
+    "MBBS",
+    "MD/DNB Psychiatry",
+    "Medical Registration",
+    "Fellowships in Subspecialties (optional)"
+  ],
+
+  "realityCheck": [
+    "Requires extensive education and training",
+    "Progress in treatment can be slow",
+    "Emotionally demanding profession",
+    "Mental health stigma still exists in some communities",
+    "Building a private practice takes time"
+  ],
+
+  "careerGrowth": [
+    "Medical Intern",
+    "Junior Resident",
+    "Psychiatry Resident",
+    "Consultant Psychiatrist",
+    "Senior Consultant",
+    "Clinic Owner / Department Head"
+  ],
+
+  "salary": {
+    "entry": "₹10-18 LPA",
+    "mid": "₹20-40 LPA",
+    "senior": "₹40 LPA+"
+  },
+
+  "dayToDayWork": [
+    "Conducting patient consultations",
+    "Diagnosing mental health disorders",
+    "Prescribing medications",
+    "Monitoring treatment progress",
+    "Providing psychotherapy",
+    "Maintaining patient records"
+  ],
+
+  "challenges": [
+    "Emotional burnout risk",
+    "Complex patient cases",
+    "Long-term treatment timelines",
+    "Mental health stigma",
+    "Managing psychiatric emergencies"
+  ],
+
+  "roadmap": [
+    "Complete 10+2 with PCB",
+    "Clear NEET",
+    "Earn MBBS degree",
+    "Complete internship",
+    "Clear NEET PG",
+    "Complete MD/DNB Psychiatry",
+    "Gain clinical experience or start private practice"
+  ],
+
+  "exitOpportunities": [
+    "Hospital Administration",
+    "Mental Health Research",
+    "Medical Education",
+    "Public Health",
+    "Healthcare Consulting",
+    "Pharmaceutical Industry",
+    "Mental Health Entrepreneurship"
+  ],
+
+  "futureOutlook": [
+    "Strong growth due to rising mental health awareness",
+    "Increasing demand for psychiatrists globally",
+    "Expansion of telepsychiatry services",
+    "Growing acceptance of mental healthcare",
+    "Excellent long-term career stability"
+  ],
+
+  "recommendedResource": [
+    "NCERT Biology",
+    "Marrow",
+    "PrepLadder",
+    "Kaplan & Sadock's Synopsis of Psychiatry",
+    "DSM-5-TR"
+  ]
+},
+
+{
+  "name": "Radiologist",
+
+  "summary": "A Radiologist is a medical doctor who specializes in diagnosing diseases and injuries using medical imaging technologies such as X-rays, CT scans, MRI, ultrasound, and nuclear medicine.",
+
+  "difficulty": "Very Hard",
+
+  "goals": [
+    "Diagnose diseases accurately",
+    "Interpret medical images",
+    "Support treatment planning",
+    "Improve patient outcomes through imaging"
+  ],
+
+  "bestFor": [
+    "Students who enjoy medicine and technology",
+    "Detail-oriented individuals",
+    "People who enjoy pattern recognition",
+    "Those who prefer analytical work over extensive patient interaction"
+  ],
+
+  "avoidIf": [
+    "You dislike biology and medicine",
+    "You prefer highly social careers",
+    "You dislike long training periods",
+    "You struggle with attention to detail"
+  ],
+
+  "requiredSkills": [
+    "Image Interpretation",
+    "Diagnostic Reasoning",
+    "Medical Knowledge",
+    "Attention to Detail",
+    "Technology Proficiency",
+    "Clinical Decision Making"
+  ],
+
+  "collegeImportance": [
+    "Extremely important",
+    "Top medical colleges improve residency opportunities",
+    "Hospital quality determines imaging exposure and case variety"
+  ],
+
+  "familyAdvantage": [
+    "Family-owned diagnostic center",
+    "Hospital ownership",
+    "Healthcare industry network",
+    "Established referral network"
+  ],
+
+  "qualifications": [
+    "MBBS",
+    "MD/DNB Radiology",
+    "Medical Registration",
+    "Fellowships in Interventional Radiology or Subspecialties (optional)"
+  ],
+
+  "realityCheck": [
+    "Highly competitive specialization",
+    "Requires years of training",
+    "Long periods spent reviewing images",
+    "High responsibility due to diagnostic impact",
+    "Private imaging setup requires significant capital"
+  ],
+
+  "careerGrowth": [
+    "Medical Intern",
+    "Junior Resident",
+    "Radiology Resident",
+    "Consultant Radiologist",
+    "Senior Consultant",
+    "Diagnostic Center Owner / Department Head"
+  ],
+
+  "salary": {
+    "entry": "₹15-30 LPA",
+    "mid": "₹30-60 LPA",
+    "senior": "₹60 LPA+"
+  },
+
+  "dayToDayWork": [
+    "Reviewing X-rays, CT scans, and MRIs",
+    "Preparing diagnostic reports",
+    "Discussing findings with physicians",
+    "Performing imaging-guided procedures",
+    "Monitoring imaging quality",
+    "Attending multidisciplinary meetings"
+  ],
+
+  "challenges": [
+    "High diagnostic accuracy expectations",
+    "Large image volumes",
+    "Continuous technological advancements",
+    "Long screen time",
+    "Medico-legal responsibilities"
+  ],
+
+  "roadmap": [
+    "Complete 10+2 with PCB",
+    "Clear NEET",
+    "Earn MBBS degree",
+    "Complete internship",
+    "Clear NEET PG",
+    "Complete MD/DNB Radiology",
+    "Pursue fellowship or begin practice"
+  ],
+
+  "exitOpportunities": [
+    "Interventional Radiology",
+    "Hospital Administration",
+    "Medical Research",
+    "Medical Education",
+    "Healthcare Consulting",
+    "Diagnostic Center Entrepreneurship",
+    "Medical Technology Industry"
+  ],
+
+  "futureOutlook": [
+    "Strong demand due to increasing diagnostic imaging needs",
+    "Growth in preventive healthcare",
+    "Expansion of private diagnostic centers",
+    "AI will assist rather than replace radiologists",
+    "Excellent long-term earning potential"
+  ],
+
+  "recommendedResource": [
+    "NCERT Biology",
+    "Marrow",
+    "PrepLadder",
+    "Radiopaedia",
+    "Grainger & Allison's Diagnostic Radiology"
+  ]
+},
+
+{
+  "name": "Orthopaedic Surgeon",
+
+  "summary": "An Orthopaedic Surgeon is a medical specialist who diagnoses, treats, and surgically manages conditions affecting bones, joints, ligaments, tendons, muscles, and the musculoskeletal system.",
+
+  "difficulty": "Extremely Hard",
+
+  "goals": [
+    "Restore mobility and function",
+    "Treat fractures and injuries",
+    "Perform joint replacement surgeries",
+    "Improve patients' quality of life"
+  ],
+
+  "bestFor": [
+    "Students passionate about medicine and surgery",
+    "People who enjoy hands-on procedures",
+    "Individuals with strong problem-solving abilities",
+    "Those comfortable working in high-pressure environments"
+  ],
+
+  "avoidIf": [
+    "You dislike surgery",
+    "You want a short education path",
+    "You dislike long working hours",
+    "You are uncomfortable handling medical emergencies"
+  ],
+
+  "requiredSkills": [
+    "Surgical Skills",
+    "Anatomy Knowledge",
+    "Clinical Diagnosis",
+    "Decision Making",
+    "Hand-Eye Coordination",
+    "Physical Stamina"
+  ],
+
+  "collegeImportance": [
+    "Extremely important",
+    "Top medical colleges improve surgical exposure",
+    "Strong teaching hospitals provide better residency training"
+  ],
+
+  "familyAdvantage": [
+    "Family-owned hospital",
+    "Established orthopaedic practice",
+    "Healthcare industry network",
+    "Existing patient referral base"
+  ],
+
+  "qualifications": [
+    "MBBS",
+    "MS Orthopaedics",
+    "Medical Registration",
+    "Fellowship in Joint Replacement, Spine Surgery, Sports Medicine, or Trauma (optional)"
+  ],
+
+  "realityCheck": [
+    "One of the most competitive surgical specialties",
+    "Training period is very long",
+    "Physical demands can be significant",
+    "Building a successful private practice takes years",
+    "Surgical outcomes directly impact patient mobility"
+  ],
+
+  "careerGrowth": [
+    "Medical Intern",
+    "Junior Resident",
+    "Orthopaedic Resident",
+    "Consultant Orthopaedic Surgeon",
+    "Senior Consultant",
+    "Department Head / Hospital Owner"
+  ],
+
+  "salary": {
+    "entry": "₹12-25 LPA",
+    "mid": "₹30-60 LPA",
+    "senior": "₹60 LPA+"
+  },
+
+  "dayToDayWork": [
+    "Consulting patients",
+    "Diagnosing fractures and joint disorders",
+    "Performing surgeries",
+    "Reviewing X-rays and scans",
+    "Managing post-operative recovery",
+    "Attending emergency trauma cases"
+  ],
+
+  "challenges": [
+    "Long surgeries",
+    "High responsibility",
+    "Emergency trauma situations",
+    "Physical fatigue",
+    "Maintaining surgical precision under pressure"
+  ],
+
+  "roadmap": [
+    "Complete 10+2 with PCB",
+    "Clear NEET",
+    "Earn MBBS degree",
+    "Complete internship",
+    "Clear NEET PG",
+    "Complete MS Orthopaedics",
+    "Pursue fellowship or begin practice"
+  ],
+
+  "exitOpportunities": [
+    "Sports Medicine",
+    "Spine Surgery",
+    "Joint Replacement Surgery",
+    "Hospital Administration",
+    "Medical Education",
+    "Medical Device Industry",
+    "Healthcare Entrepreneurship"
+  ],
+
+  "futureOutlook": [
+    "Strong demand due to aging populations",
+    "Growth in sports injury treatment",
+    "Increasing demand for joint replacement procedures",
+    "Excellent private practice opportunities",
+    "Very strong long-term career prospects"
+  ],
+
+  "recommendedResource": [
+    "NCERT Biology",
+    "Marrow",
+    "PrepLadder",
+    "Campbell's Operative Orthopaedics",
+    "Maheshwari's Essential Orthopaedics"
+  ]
+}
+  ]
+}

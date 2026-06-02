@@ -1,0 +1,718 @@
+{
+  "domain": "Engineering",
+
+  "specializations": [
+    {
+  "name": "Software Engineering",
+
+  "summary": "Building software products, applications and systems.",
+
+  "difficulty": "Medium",
+
+  "goals": [
+    "Money",
+    "Enjoyment of building things",
+    "Solving problems"
+  ],
+
+  "bestFor": [
+    "Problem Solvers",
+    "Logical Thinkers",
+    "People who enjoy computers"
+  ],
+
+  "avoidIf": [
+    "You hate coding",
+    "You dislike sitting in front of a computer"
+  ],
+
+  "requiredSkills": [
+    "Programming",
+    "Problem Solving",
+    "Communication"
+  ],
+
+  "collegeImportance":[ "Top IIT/NIT/Top CS Colleges will help you land better internships, Jobs and Interview opportununities but many successful engineers are self taught and building amazing companies"],
+
+  "familyAdvantage": ["Y'all have better chances of getting a job/internship if your family has connections in the industry but many successful engineers come from non tech families"],
+
+  "qualifications": [
+    "BTech",
+    "BCA(won't recommend from open university), if open university then do MCA from top university. Some companies don't shortlist BCA from Open University)",
+    "MCA(same here, go for the top university, better money, better opportunities)",
+    "Self Learning(Depends here if you have strong circle and shitpost on X and insta to showcase your projects)"
+  ],
+  "realityCheck": [
+    "Most engineers do not earn FAANG salaries",
+    "Most of y'all and your peers might leave Software Engineering as a career and start going for MBA for better salary",
+    "People with passion for computers and building things will do well in this field"
+    
+  ],
+  "careerGrowth": [
+    "Entry: Software Engineer / Junior Developer (0-5 YOE)",
+    "Mid: Senior Engineer (5-10 YOE)",
+    "Senior: Tech Lead (10-15 YOE)",
+    "Upper: Engineering Manager",
+    "Executive: CTO"
+],  
+
+  "salary": {
+    "entry": "2.5-7 LPA. This is avg trust me. Only top tier colleges will help you get more than 15-20. There are some exceptions but yes let's be grounded with reality",
+    "mid": "7-30 LPA. After gaining 5-8 YOE you can expect this if you are working at a product based company. CATCH: IF-PRODUCT BASED FUNDED COMPANY/STARTUP.",
+    "senior": "50+ LPA. This is for senior engineers with 15+ YOE working at top product based companies or funded startups"
+  },
+
+  
+
+
+  "dayToDayWork": [
+    "Coding-Monekying. Now a days jerking while Claude/ChatGPT is coding for you",
+    "Meetings where you discuss about the deadlines you might miss and how to come up with garbage excuses",
+    "Code Reviews- Peer reviewing your AI Generated code",
+    "Debugging that AI SLOP"
+  ],
+
+  "challenges": [
+    "Constant learning. You can never take a break and have to gain new skills and understand new technologies every year",
+    "Competition is cut throat. India produces 1,500,000+ engineering graduates every year",
+    "Don't forget about Crypto, Metaverse, Web3, and now AI. Things keeps on changing you never know"
+  ],
+
+  
+
+  "roadmap": [
+    "Programming Fundamentals",
+    "Projects",
+    "Internship",
+    "Software Engineer"
+  ],
+
+  "exitOpportunities": [
+    "Product Management if you hate coding but love building products",
+    "Wannabe Startup Founder"
+
+  ],
+
+  "futureOutlook": "Good. Software and Computer Industry will always be opportunities for best talent. For people who understand the end user and business",
+
+  "recommendedResources": [
+    "Youtube",
+    "The Odin Project",
+    "LeetCode",
+    "W3Schools"
+
+  ]
+},
+        {
+      "name": "Mechanical Engineering",
+      "summary": "Design, manufacturing, maintenance and optimization of machines, engines and industrial systems.",
+
+      "difficulty": "Medium-High",
+
+      "goals": ["Money"],
+
+      "bestFor": [
+        "People who enjoy Physics and are machinist",
+        "People interested in machines and manufacturing",
+        "Who wants to build Hard things like Bikes, Car, somethings that Software engineers only imagine to build"
+      ],
+
+      "avoidIf": [
+        "You hate factory environments dealing with bluecollar workers",
+        "If you hate zubaan kersari(jk)",
+        "You want a purely desk-based career(AC walla environement)"
+      ],
+
+      "requiredSkills":[
+        "Physics",
+    "CAD Software",
+    "Problem Solving",
+    "Communication"
+      ],
+
+      "collegeImportance": ["Getting into a top college is much better. Try to get into State Level and National level college because they have good resources and well equiped staff"],
+
+      "familyAdvantage": ["If your relatives or parents were Mechanical Engineers they can guide you better than college professors"],
+
+      "qualifications": [
+        "BTech Mechanical",
+        "Diploma Mechanical",
+        "MTech"
+      ],
+
+      "realityCheck": [
+        "Most graduates do not work on Formula 1 cars or aircraft engines unnfortunately",
+        "Practical skills matter more than college projects",
+        "You are not going to build your own bike. (I'd build ngl)"
+      ],
+
+      "careerGrowth": [
+        "This field of engineering is a connecting dot between aerospace and heavy manufacturing Industry",
+        "Most of the work is automated using CNC machine but design and how to get things done, no one knows it better than mechanical Engineers",
+        "If you want you can enter robotics, Aerospace, Space Industry, and many other fields",
+        "Most of the Indian engineers go for MBA for better compensation at Automobile companies or switch their field by late 20s",
+        "Bright minded people who want to build things will stay as a Mechanical engineers and usually go for entrepreneurship"
+      ],
+
+
+      "salary": {
+        "entry": "3-8 LPA",
+        "mid": "8-20 LPA(Yet to meet someone who makes more than 20+lakhs because most of them go for MBA)",
+        "senior": "20L+(same)"
+      },
+
+      "dayToDayWork":[
+        "Designing products or components like using CAD software. Designing parts, assembly or systems.",
+        "Engineering calculation and analysis like if you are building something how much load/stress it can handle ",
+        "Testing and inspecting prototypes like Ather testing their 2-wheelers before shipping",
+        "Maintaining records and doucmentation, reducing cost and waste but making sure end user/customer get best quality product"
+      ],
+      "challenges": [
+        "Core jobs can be limited",
+        "Many engineers shift to software or management",
+        "Factory locations may be out of City centres",
+        "Many ambitious folks who are looking for better paycheck might get disappointed"
+      ],
+
+      "roadmap": [
+        "Mechanical Degree",
+        "CAD Software",
+        "Internships",
+        "Graduate Engineer",
+        "Senior Engineer",
+        "Plant Manager"
+      ],
+
+      "exitOpportunities":{
+        "Operations": "Many of the engineer who go for management roles move up to handling operations of Manufacturing unit or operation in corporate",
+        "Sales Engineering": "Engineer who want to stay in their field but want to build management skill and move up the career ladder start with sales engineering",
+        "Finance": "Many engineers after MBA go for MBA in finance given good maths skills",
+        "Consulting": "Big4 or rare MBB(After MBA or Tier 1 college) hire for different roles"
+      },
+
+      "futureOutlook": "Stable",
+
+      "recommendedResources":{
+        "Core fundamentals": "Thermodynamics, Strength of material, fluid mechanics, Machine design, Manufacturing design",
+        "CAD design": "Build 3D models and assemblies, Learn solidworks or CATIA",
+        "Manufacturing & industrial process": "CNC Machines, Welding"
+      }
+
+    },      
+    {
+  "name": "Civil Engineering",
+  "summary": "Civil Engineering involves designing, constructing, and maintaining infrastructure such as buildings, roads, bridges, dams, railways, and water systems.",
+  
+  "difficulty": "Medium-Hard",
+  
+  "goals": [
+    "Design safe structures",
+    "Develop infrastructure",
+    "Manage construction projects",
+    "Improve public utilities"
+  ],
+  
+  "bestFor": [
+    "People who enjoy construction and infrastructure",
+    "Problem solvers",
+    "Those comfortable with field work",
+    "Individuals interested in large-scale projects"
+  ],
+  
+  "avoidIf": [
+    "You dislike site visits",
+    "You prefer fully remote work",
+    "You dislike mathematics and physics",
+    "You want a purely desk-based career"
+  ],
+  
+  "requiredSkills": [
+    "Structural Analysis",
+    "AutoCAD",
+    "Problem Solving",
+    "Project Management",
+    "Communication",
+    "Mathematics"
+  ],
+  
+  "collegeImportance": [
+    "Important for placements",
+    "Top colleges provide better industry exposure",
+    "Strong alumni network helps"
+  ],
+  
+  "familyAdvantage": [
+    "Construction business background",
+    "Contractor network",
+    "Real estate connections",
+    "Infrastructure industry contacts"
+  ],
+  
+  "qualifications": [
+    "B.Tech/B.E. Civil Engineering",
+    "Diploma in Civil Engineering",
+    "M.Tech (optional)",
+    "Professional certifications"
+  ],
+  
+  "realityCheck": [
+    "Site work is common in early career",
+    "Projects often face delays",
+    "Work can be physically demanding",
+    "Growth is slower than software careers"
+  ],
+  
+  "careerGrowth": [
+    "Site Engineer",
+    "Project Engineer",
+    "Senior Engineer",
+    "Project Manager",
+    "Construction Manager",
+    "Director/Consultant"
+  ],
+  
+  "salary": {
+    "entry": "₹3-6 LPA",
+    "mid": "₹8-15 LPA",
+    "senior": "₹20+ LPA"
+  },
+  
+  "dayToDayWork": [
+    "Site inspections",
+    "Reviewing construction progress",
+    "Preparing drawings",
+    "Project planning",
+    "Meeting contractors and clients",
+    "Quality checks"
+  ],
+  
+  "challenges": [
+    "Tight deadlines",
+    "Site safety concerns",
+    "Weather disruptions",
+    "Labour management",
+    "Cost overruns"
+  ],
+  
+  "roadmap": [
+    "Learn core civil concepts",
+    "Master AutoCAD and design software",
+    "Complete internships",
+    "Gain site experience",
+    "Move into project management or specialization"
+  ],
+  
+  "exitOpportunities": [
+    "Project Management",
+    "Construction Management",
+    "Real Estate",
+    "Operations",
+    "Government Services",
+    "Consulting",
+    "Entrepreneurship"
+  ],
+  
+  "futureOutlook": [
+    "Stable demand due to infrastructure development",
+    "Smart cities and urbanization create opportunities",
+    "Renewable energy projects need civil engineers",
+    "Moderate long-term growth"
+  ],
+  
+  "recommendedResource": [
+    "NPTEL Civil Engineering Courses",
+    "MIT OpenCourseWare",
+    "AutoCAD Tutorials",
+    "The Constructor",
+    "Practical Engineering YouTube Channel"
+  ]
+},
+{
+  "name": "Electrical Engineering",
+
+  "summary": "Electrical Engineering focuses on the generation, transmission, distribution, and utilization of electrical power, as well as the design and maintenance of electrical systems, machines, and equipment.",
+
+  "difficulty": "Hard",
+
+  "goals": [
+    "Design electrical systems",
+    "Ensure reliable power distribution",
+    "Develop energy-efficient solutions",
+    "Maintain industrial electrical infrastructure"
+  ],
+
+  "bestFor": [
+    "Students who enjoy physics and mathematics",
+    "People interested in power systems and energy",
+    "Problem solvers",
+    "Those comfortable working with large-scale infrastructure"
+  ],
+
+  "avoidIf": [
+    "You dislike mathematics and physics",
+    "You want purely software-based work",
+    "You dislike troubleshooting technical issues",
+    "You are uncomfortable with safety-critical environments"
+  ],
+
+  "requiredSkills": [
+    "Power Systems",
+    "Circuit Analysis",
+    "Electrical Machines",
+    "Control Systems",
+    "Problem Solving",
+    "Technical Communication"
+  ],
+
+  "collegeImportance": [
+    "Important for campus placements",
+    "Top colleges attract better core recruiters",
+    "Industry exposure and labs improve learning"
+  ],
+
+  "familyAdvantage": [
+    "Electrical contracting business",
+    "Power sector connections",
+    "Industrial manufacturing network",
+    "Government utility contacts"
+  ],
+
+  "qualifications": [
+    "B.Tech/B.E. Electrical Engineering",
+    "Diploma in Electrical Engineering",
+    "M.Tech (optional)",
+    "Industry certifications"
+  ],
+
+  "realityCheck": [
+    "Field work is common in many roles",
+    "Safety responsibilities are significant",
+    "Power sector projects can be demanding",
+    "Continuous technical learning is required"
+  ],
+
+  "careerGrowth": [
+    "Graduate Engineer Trainee",
+    "Electrical Engineer",
+    "Senior Engineer",
+    "Project Engineer",
+    "Engineering Manager",
+    "Plant Head / Technical Director"
+  ],
+
+  "salary": {
+    "entry": "₹4-8 LPA",
+    "mid": "₹8-18 LPA",
+    "senior": "₹20+ LPA"
+  },
+
+  "dayToDayWork": [
+    "Designing electrical systems",
+    "Inspecting equipment",
+    "Troubleshooting faults",
+    "Monitoring power systems",
+    "Preparing technical reports",
+    "Coordinating with project teams"
+  ],
+
+  "challenges": [
+    "Electrical safety risks",
+    "Equipment failures",
+    "Project deadlines",
+    "Complex troubleshooting",
+    "Keeping up with new technologies"
+  ],
+
+  "roadmap": [
+    "Master electrical fundamentals",
+    "Learn power systems and electrical machines",
+    "Develop CAD and simulation skills",
+    "Complete internships",
+    "Gain practical industry experience"
+  ],
+
+  "exitOpportunities": [
+    "Power Sector Management",
+    "Renewable Energy",
+    "Industrial Automation",
+    "Project Management",
+    "Operations Management",
+    "Consulting",
+    "Technical Sales"
+  ],
+
+  "futureOutlook": [
+    "Strong demand from renewable energy growth",
+    "Expansion of electric vehicles",
+    "Increasing power infrastructure investments",
+    "Stable long-term career prospects"
+  ],
+
+  "recommendedResource": [
+    "NPTEL Electrical Engineering Courses",
+    "MIT OpenCourseWare",
+    "Electrical4U",
+    "The Engineering Mindset YouTube Channel",
+    "Fundamentals of Electric Circuits by Alexander & Sadiku"
+  ]
+},
+{
+  "name": "Chemical Engineering",
+
+  "summary": "Chemical Engineering focuses on designing, operating, and optimizing processes that convert raw materials into valuable products such as fuels, chemicals, pharmaceuticals, food products, and consumer goods.",
+
+  "difficulty": "Hard",
+
+  "goals": [
+    "Design industrial processes",
+    "Improve production efficiency",
+    "Ensure plant safety",
+    "Develop sustainable manufacturing methods"
+  ],
+
+  "bestFor": [
+    "Students who enjoy chemistry and physics",
+    "Problem solvers",
+    "People interested in large-scale industrial processes",
+    "Those comfortable with plant environments"
+  ],
+
+  "avoidIf": [
+    "You dislike chemistry",
+    "You want purely software-based work",
+    "You dislike industrial or factory settings",
+    "You prefer highly creative design work"
+  ],
+
+  "requiredSkills": [
+    "Process Engineering",
+    "Chemistry",
+    "Thermodynamics",
+    "Data Analysis",
+    "Problem Solving",
+    "Safety Management"
+  ],
+
+  "collegeImportance": [
+    "Important for campus placements",
+    "Top colleges provide better access to core companies",
+    "Strong industry network helps significantly"
+  ],
+
+  "familyAdvantage": [
+    "Chemical manufacturing business",
+    "Pharmaceutical industry connections",
+    "Industrial plant ownership",
+    "Oil and gas sector network"
+  ],
+
+  "qualifications": [
+    "B.Tech/B.E. Chemical Engineering",
+    "Diploma in Chemical Engineering",
+    "M.Tech (optional)",
+    "Industry certifications"
+  ],
+
+  "realityCheck": [
+    "Many roles involve plant operations",
+    "Shift work may be required",
+    "Safety responsibilities are significant",
+    "Core jobs can be concentrated in industrial regions"
+  ],
+
+  "careerGrowth": [
+    "Graduate Engineer Trainee",
+    "Process Engineer",
+    "Senior Process Engineer",
+    "Plant Engineer",
+    "Plant Manager",
+    "Operations Head"
+  ],
+
+  "salary": {
+    "entry": "₹4-8 LPA",
+    "mid": "₹10-18 LPA",
+    "senior": "₹20+ LPA"
+  },
+
+  "dayToDayWork": [
+    "Monitoring production processes",
+    "Analyzing plant performance",
+    "Improving process efficiency",
+    "Conducting safety checks",
+    "Preparing reports",
+    "Collaborating with operations teams"
+  ],
+
+  "challenges": [
+    "Strict safety requirements",
+    "Process failures can be costly",
+    "Handling hazardous materials",
+    "Pressure to improve efficiency",
+    "Shift-based work in some plants"
+  ],
+
+  "roadmap": [
+    "Master chemical engineering fundamentals",
+    "Learn process simulation software",
+    "Complete plant internships",
+    "Develop safety and operations knowledge",
+    "Specialize in a sector such as petrochemicals or pharmaceuticals"
+  ],
+
+  "exitOpportunities": [
+    "Operations Management",
+    "Supply Chain",
+    "Pharmaceutical Industry",
+    "Consulting",
+    "Environmental Engineering",
+    "Energy Sector",
+    "MBA and Management Roles"
+  ],
+
+  "futureOutlook": [
+    "Strong demand in pharmaceuticals",
+    "Growth in renewable energy and sustainability",
+    "Stable opportunities in chemicals and manufacturing",
+    "Automation will increase demand for skilled engineers"
+  ],
+
+  "recommendedResource": [
+    "NPTEL Chemical Engineering Courses",
+    "MIT OpenCourseWare",
+    "LearnChemE",
+    "Chemical Engineering Guy YouTube Channel",
+    "Perry's Chemical Engineers' Handbook"
+  ]
+},
+{
+  "name": "Electronics Engineering",
+
+  "summary": "Electronics Engineering focuses on designing, developing, testing, and maintaining electronic circuits, devices, communication systems, embedded systems, semiconductors, and consumer electronics.",
+
+  "difficulty": "Hard",
+
+  "goals": [
+    "Design electronic systems",
+    "Develop embedded solutions",
+    "Build communication technologies",
+    "Improve hardware performance"
+  ],
+
+  "bestFor": [
+    "Students who enjoy physics and mathematics",
+    "People interested in hardware and technology",
+    "Analytical thinkers",
+    "Those interested in semiconductors and embedded systems"
+  ],
+
+  "avoidIf": [
+    "You dislike mathematics",
+    "You prefer business-focused careers",
+    "You dislike troubleshooting technical problems",
+    "You want quick learning with minimal theory"
+  ],
+
+  "requiredSkills": [
+    "Circuit Design",
+    "Digital Electronics",
+    "Microcontrollers",
+    "Embedded Systems",
+    "Programming",
+    "Problem Solving"
+  ],
+
+  "collegeImportance": [
+    "Important for semiconductor and core placements",
+    "Top colleges attract leading technology companies",
+    "Strong alumni network improves opportunities"
+  ],
+
+  "familyAdvantage": [
+    "Electronics manufacturing business",
+    "Technology industry connections",
+    "Semiconductor industry network",
+    "Engineering consultancy background"
+  ],
+
+  "qualifications": [
+    "B.Tech/B.E. Electronics Engineering",
+    "Diploma in Electronics Engineering",
+    "M.Tech (optional)",
+    "Embedded Systems Certifications"
+  ],
+
+  "realityCheck": [
+    "Core electronics jobs can be competitive",
+    "Many graduates eventually move into software",
+    "Continuous learning is required",
+    "Hardware debugging can be time-consuming"
+  ],
+
+  "careerGrowth": [
+    "Graduate Engineer Trainee",
+    "Electronics Engineer",
+    "Embedded Engineer",
+    "Senior Engineer",
+    "Technical Lead",
+    "Engineering Manager"
+  ],
+
+  "salary": {
+    "entry": "₹4-10 LPA",
+    "mid": "₹10-25 LPA",
+    "senior": "₹25+ LPA"
+  },
+
+  "dayToDayWork": [
+    "Designing circuits",
+    "Testing electronic systems",
+    "Debugging hardware issues",
+    "Writing embedded software",
+    "Analyzing performance data",
+    "Collaborating with design teams"
+  ],
+
+  "challenges": [
+    "Rapid technology changes",
+    "Complex debugging",
+    "Long development cycles",
+    "Precision and accuracy requirements",
+    "High competition in core roles"
+  ],
+
+  "roadmap": [
+    "Learn electronics fundamentals",
+    "Master digital and analog circuits",
+    "Learn microcontrollers and embedded C",
+    "Build electronics projects",
+    "Gain internship experience in hardware or embedded systems"
+  ],
+
+  "exitOpportunities": [
+    "Embedded Systems",
+    "Software Engineering",
+    "IoT Development",
+    "Robotics",
+    "Semiconductor Industry",
+    "Product Management",
+    "Technical Consulting"
+  ],
+
+  "futureOutlook": [
+    "Strong demand due to semiconductor growth",
+    "Expansion of IoT and smart devices",
+    "Growth in electric vehicles",
+    "Excellent long-term prospects in hardware and embedded systems"
+  ],
+
+  "recommendedResource": [
+    "NPTEL Electronics Courses",
+    "MIT OpenCourseWare",
+    "All About Circuits",
+    "Ben Eater YouTube Channel",
+    "The Art of Electronics"
+  ]
+}
+  ]
+}

@@ -1,0 +1,1174 @@
+{
+    "domains": "Sales & Marketing",
+
+    "specializations":[
+        
+{
+  "name": "Business Development",
+
+  "summary": "Business Development focuses on generating revenue growth by acquiring new customers, building strategic partnerships, identifying market opportunities, and expanding a company's business. It sits at the intersection of sales, strategy, relationship management, and growth.",
+
+  "difficulty": "Medium",
+
+  "goals": [
+    "Generate revenue growth",
+    "Acquire new customers",
+    "Build strategic partnerships",
+    "Expand into new markets",
+    "Identify growth opportunities"
+  ],
+
+  "bestFor": [
+    "Extroverted individuals",
+    "Strong communicators",
+    "Relationship builders",
+    "People who enjoy networking",
+    "Those comfortable with targets and performance metrics"
+  ],
+
+  "avoidIf": [
+    "You dislike talking to people",
+    "You fear rejection",
+    "You prefer highly technical work",
+    "You dislike negotiation",
+    "You want predictable daily routines"
+  ],
+
+  "requiredSkills": [
+    "Communication",
+    "Sales",
+    "Negotiation",
+    "Networking",
+    "Relationship Management",
+    "Presentation Skills",
+    "Business Acumen",
+    "Market Research"
+  ],
+
+  "collegeImportance": [
+    "Low to Moderate",
+    "Prestigious colleges may help initially",
+    "Performance matters far more than academic pedigree",
+    "Results eventually outweigh credentials"
+  ],
+
+  "familyAdvantage": [
+    "Business family background",
+    "Existing client network",
+    "Industry contacts",
+    "Entrepreneurial exposure",
+    "Access to decision-makers"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree (Any Field)",
+    "MBA (optional)",
+    "Sales and Negotiation Training",
+    "Industry Knowledge"
+  ],
+
+  "realityCheck": [
+    "Business Development is often mistaken for pure sales, but strategic BD involves partnerships, market expansion, and growth initiatives",
+    "Your performance is highly visible because revenue numbers are measurable",
+    "Rejection is part of the job",
+    "Building trust with clients takes time",
+    "The best performers often earn significantly more through incentives and commissions",
+    "Results matter far more than credentials"
+  ],
+
+  "careerGrowth": [
+    "Business Development Executive",
+    "Business Development Manager",
+    "Senior Manager",
+    "Head of Business Development",
+    "VP Growth",
+    "Chief Revenue Officer (CRO)"
+  ],
+
+  "salary": {
+    "entry": "₹4-8 LPA",
+    "mid": "₹10-25 LPA",
+    "senior": "₹30 LPA - ₹1 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Prospecting potential clients",
+    "Cold calling and outreach",
+    "Conducting client meetings",
+    "Negotiating deals",
+    "Building partnerships",
+    "Tracking sales pipelines",
+    "Preparing proposals",
+    "Attending networking events"
+  ],
+
+  "challenges": [
+    "Meeting revenue targets",
+    "Handling rejection",
+    "Competitive markets",
+    "Long sales cycles",
+    "Managing difficult clients",
+    "Maintaining consistent performance"
+  ],
+
+  "roadmap": [
+    "Develop communication and presentation skills",
+    "Learn sales fundamentals",
+    "Understand negotiation techniques",
+    "Gain industry knowledge",
+    "Build networking abilities",
+    "Develop relationship management expertise"
+  ],
+
+  "exitOpportunities": [
+    "Sales Leadership",
+    "Growth Management",
+    "Product Management",
+    "Entrepreneurship",
+    "Management Consulting",
+    "Corporate Strategy",
+    "General Management"
+  ],
+
+  "futureOutlook": [
+    "Strong demand across all industries",
+    "AI can assist sales but cannot replace relationship building",
+    "Companies increasingly prioritize growth functions",
+    "Digital channels are creating new opportunities",
+    "Top performers will remain highly compensated"
+  ],
+
+  "recommendedResource": [
+    "The Challenger Sale",
+    "SPIN Selling",
+    "Never Split the Difference",
+    "How to Win Friends and Influence People",
+    "LinkedIn Learning Sales Courses"
+  ]
+},
+{
+  "name": "Field Sales/Area Sales Manager",
+
+  "summary": "Field Sales involves managing distributors, retailers, and sales channels to ensure products reach customers efficiently. Field Sales professionals drive revenue growth, execute company strategies on the ground, and build relationships across the distribution network.",
+
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Increase sales volume",
+    "Expand market share",
+    "Improve product availability",
+    "Strengthen distribution networks",
+    "Drive revenue growth",
+    "Execute company sales strategies"
+  ],
+
+  "bestFor": [
+    "People who enjoy interacting with others",
+    "Future business leaders",
+    "Highly resilient individuals",
+    "People comfortable working on the ground",
+    "Strong relationship builders"
+  ],
+
+  "avoidIf": [
+    "You want a desk job",
+    "You dislike travel",
+    "You dislike dealing with operational issues",
+    "You want immediate strategic work",
+    "You dislike sales targets"
+  ],
+
+  "requiredSkills": [
+    "Sales",
+    "Negotiation",
+    "Relationship Management",
+    "Distribution Management",
+    "Execution",
+    "Leadership",
+    "Communication",
+    "Commercial Awareness"
+  ],
+
+  "collegeImportance": [
+    "Moderate",
+    "Top MBA colleges often feed into FMCG sales leadership tracks",
+    "Performance quickly becomes more important than college brand",
+    "Field performance heavily influences career progression"
+  ],
+
+  "familyAdvantage": [
+    "Distribution business background",
+    "Retail exposure",
+    "FMCG industry contacts",
+    "Business ownership experience"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "MBA (often preferred for leadership tracks)",
+    "Sales and Distribution Understanding"
+  ],
+
+  "realityCheck": [
+    "Many IIM graduates begin their FMCG careers in field sales",
+    "You may spend significant time visiting retailers and distributors",
+    "The role is highly execution-focused",
+    "Targets are monitored closely",
+    "Field exposure is often considered essential before moving into leadership roles",
+    "The job teaches business fundamentals better than many office-based roles"
+  ],
+
+  "careerGrowth": [
+    "Sales Trainee",
+    "Territory Sales Officer",
+    "Area Sales Manager",
+    "Regional Sales Manager",
+    "Zonal Sales Manager",
+    "National Sales Manager",
+    "Sales Director",
+    "Business Head"
+  ],
+
+  "salary": {
+    "entry": "₹6-15 LPA",
+    "mid": "₹15-35 LPA",
+    "senior": "₹40 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Meeting distributors",
+    "Visiting retailers",
+    "Tracking sales performance",
+    "Managing inventory availability",
+    "Resolving channel issues",
+    "Executing promotions",
+    "Reviewing market intelligence",
+    "Monitoring competitor activities"
+  ],
+
+  "challenges": [
+    "Aggressive sales targets",
+    "Extensive travel",
+    "Distributor conflicts",
+    "Market competition",
+    "Pressure to achieve growth",
+    "Managing large territories"
+  ],
+
+  "roadmap": [
+    "Develop sales and communication skills",
+    "Learn distribution and channel management",
+    "Understand FMCG business economics",
+    "Gain field sales experience",
+    "Build leadership and people management capabilities",
+    "Progress into regional and national leadership roles"
+  ],
+
+  "exitOpportunities": [
+    "Brand Management",
+    "Trade Marketing",
+    "Category Management",
+    "Business Development",
+    "General Management",
+    "Retail Leadership",
+    "Entrepreneurship",
+    "CEO Track"
+  ],
+
+  "futureOutlook": [
+    "FMCG remains a large and stable industry",
+    "Modern trade and e-commerce are changing sales channels",
+    "Strong demand for leaders who understand ground-level execution",
+    "Distribution expertise remains highly valuable",
+    "Excellent pathway to business leadership"
+  ],
+
+  "recommendedResource": [
+    "How India Sells",
+    "Sales Management by Richard Still",
+    "The Goal",
+    "FMCG Case Studies",
+    "Harvard Business Review Sales Articles"
+  ]
+},
+{
+  "name": "Brand Manager",
+
+  "summary": "Brand Managers are responsible for shaping how customers perceive a product, service, or company. They develop brand strategy, oversee marketing campaigns, analyze consumer behavior, and work to increase brand awareness, market share, and customer loyalty.",
+
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Build strong brand equity",
+    "Increase market share",
+    "Drive customer engagement",
+    "Improve brand awareness",
+    "Strengthen customer loyalty",
+    "Support business growth"
+  ],
+
+  "bestFor": [
+    "Creative thinkers",
+    "Marketing enthusiasts",
+    "People interested in consumer psychology",
+    "Strong communicators",
+    "Individuals who enjoy combining creativity with business"
+  ],
+
+  "avoidIf": [
+    "You dislike marketing",
+    "You dislike presentations and stakeholder management",
+    "You prefer purely quantitative work",
+    "You dislike understanding customer behavior",
+    "You want highly technical work"
+  ],
+
+  "requiredSkills": [
+    "Marketing Strategy",
+    "Consumer Behavior",
+    "Market Research",
+    "Communication",
+    "Presentation Skills",
+    "Data Analysis",
+    "Project Management",
+    "Creativity"
+  ],
+
+  "collegeImportance": [
+    "Moderate to High",
+    "Top MBA programs often feed into leading FMCG and consumer companies",
+    "Brand management roles at elite firms can be highly competitive",
+    "Work experience and performance become more important over time"
+  ],
+
+  "familyAdvantage": [
+    "Business family background",
+    "Marketing industry exposure",
+    "Consumer business experience",
+    "Professional network"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "MBA Marketing (common but not mandatory)",
+    "Digital Marketing Certifications",
+    "Marketing Analytics Knowledge"
+  ],
+
+  "realityCheck": [
+    "Brand management is far more analytical than most people expect",
+    "Many brand managers spend significant time analyzing sales data and market trends",
+    "Marketing campaigns often involve managing agencies rather than creating ads yourself",
+    "Consumer preferences can change rapidly",
+    "Business results matter more than creativity alone",
+    "Top brand managers think like business leaders, not advertisers"
+  ],
+
+  "careerGrowth": [
+    "Marketing Executive",
+    "Assistant Brand Manager",
+    "Brand Manager",
+    "Senior Brand Manager",
+    "Marketing Manager",
+    "Marketing Director",
+    "Chief Marketing Officer (CMO)"
+  ],
+
+  "salary": {
+    "entry": "₹6-12 LPA",
+    "mid": "₹15-35 LPA",
+    "senior": "₹40 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Analyzing market trends",
+    "Reviewing sales performance",
+    "Planning marketing campaigns",
+    "Working with advertising agencies",
+    "Conducting consumer research",
+    "Managing product launches",
+    "Preparing business presentations",
+    "Coordinating with sales teams"
+  ],
+
+  "challenges": [
+    "Changing consumer preferences",
+    "Intense competition",
+    "Pressure to deliver growth",
+    "Campaign failures",
+    "Balancing creativity with business goals",
+    "Managing multiple stakeholders"
+  ],
+
+  "roadmap": [
+    "Learn marketing fundamentals",
+    "Study consumer behavior",
+    "Develop analytical skills",
+    "Gain marketing internship experience",
+    "Learn digital marketing and brand strategy",
+    "Build expertise in a specific industry"
+  ],
+
+  "exitOpportunities": [
+    "Product Marketing",
+    "Growth Marketing",
+    "General Management",
+    "Business Development",
+    "Entrepreneurship",
+    "Advertising",
+    "Consulting",
+    "CMO Track"
+  ],
+
+  "futureOutlook": [
+    "Brands continue to be critical competitive advantages",
+    "Digital channels are creating new branding opportunities",
+    "Data-driven marketing is becoming increasingly important",
+    "AI will assist campaign creation but not replace brand strategy",
+    "Strong demand in consumer-facing industries"
+  ],
+
+  "recommendedResource": [
+    "Kotler Marketing Management",
+    "Building Strong Brands by David Aaker",
+    "Ogilvy on Advertising",
+    "How Brands Grow by Byron Sharp",
+    "Harvard Business Review Marketing Articles"
+  ]
+},
+{
+  "name": "Digital Marketing",
+
+  "summary": "Digital Marketing involves promoting products, services, or brands through online channels such as search engines, social media, email, websites, content marketing, and paid advertising. The goal is to attract, engage, convert, and retain customers using data-driven marketing strategies.",
+
+  "difficulty": "Medium",
+
+  "goals": [
+    "Increase brand awareness",
+    "Generate leads",
+    "Drive sales and revenue",
+    "Acquire customers",
+    "Improve customer engagement",
+    "Maximize marketing ROI"
+  ],
+
+  "bestFor": [
+    "Creative thinkers",
+    "People interested in social media and online trends",
+    "Data-driven marketers",
+    "Strong communicators",
+    "Individuals who enjoy experimentation"
+  ],
+
+  "avoidIf": [
+    "You dislike analytics and data",
+    "You want highly stable work environments",
+    "You dislike constant platform changes",
+    "You dislike content creation",
+    "You prefer purely technical careers"
+  ],
+
+  "requiredSkills": [
+    "SEO",
+    "SEM/PPC",
+    "Google Analytics",
+    "Social Media Marketing",
+    "Content Marketing",
+    "Copywriting",
+    "Marketing Analytics",
+    "Campaign Management"
+  ],
+
+  "collegeImportance": [
+    "Low",
+    "Portfolio and results matter far more than degrees",
+    "Many successful marketers are self-taught",
+    "Employers care about measurable outcomes"
+  ],
+
+  "familyAdvantage": [
+    "Business ownership",
+    "Marketing agency exposure",
+    "Access to clients",
+    "Entrepreneurial environment"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree (Optional in many cases)",
+    "Digital Marketing Certifications",
+    "Google Certifications",
+    "Meta Certifications",
+    "Practical Campaign Experience"
+  ],
+
+  "realityCheck": [
+    "Digital marketing changes faster than most careers",
+    "What works today may stop working next year",
+    "Many beginners focus on content creation but neglect analytics",
+    "Results are highly measurable",
+    "Clients and employers care about growth, not creativity alone",
+    "Building a strong portfolio is more important than collecting certificates"
+  ],
+
+  "careerGrowth": [
+    "Digital Marketing Intern",
+    "Digital Marketing Executive",
+    "SEO/PPC Specialist",
+    "Marketing Manager",
+    "Growth Marketing Manager",
+    "Head of Marketing",
+    "Marketing Director",
+    "Chief Marketing Officer (CMO)"
+  ],
+
+  "salary": {
+    "entry": "₹3-7 LPA",
+    "mid": "₹8-20 LPA",
+    "senior": "₹25 LPA - ₹80 LPA+"
+  },
+
+  "dayToDayWork": [
+    "Managing advertising campaigns",
+    "Analyzing website traffic",
+    "Creating content strategies",
+    "Running SEO initiatives",
+    "Managing social media accounts",
+    "Tracking campaign performance",
+    "Optimizing conversion funnels",
+    "Preparing marketing reports"
+  ],
+
+  "challenges": [
+    "Rapid platform changes",
+    "Constant algorithm updates",
+    "Increasing advertising costs",
+    "Competitive markets",
+    "Pressure to generate measurable results",
+    "Balancing creativity and analytics"
+  ],
+
+  "roadmap": [
+    "Learn marketing fundamentals",
+    "Master SEO and Google Analytics",
+    "Learn paid advertising platforms",
+    "Build personal marketing projects",
+    "Create a portfolio with measurable results",
+    "Gain agency, startup, or in-house marketing experience"
+  ],
+
+  "exitOpportunities": [
+    "Growth Marketing",
+    "Brand Management",
+    "Product Marketing",
+    "Performance Marketing",
+    "Business Development",
+    "Entrepreneurship",
+    "Marketing Consulting",
+    "CMO Track"
+  ],
+
+  "futureOutlook": [
+    "Digital channels will continue growing",
+    "AI will automate some content creation and optimization",
+    "Performance marketing demand remains strong",
+    "Companies increasingly prioritize measurable marketing outcomes",
+    "Strong opportunities for specialists and growth marketers"
+  ],
+
+  "recommendedResource": [
+    "Google Skillshop",
+    "HubSpot Academy",
+    "Ahrefs Blog",
+    "Neil Patel Resources",
+    "Google Analytics Academy"
+  ]
+},
+{
+  "name": "Product Marketing Manager",
+
+  "summary": "A Product Marketing Manager (PMM) sits between Product, Marketing, Sales, and Customers. PMMs define product positioning, messaging, go-to-market strategies, competitive intelligence, and product launches to ensure products succeed in the market.",
+  
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Increase product adoption",
+    "Drive product revenue growth",
+    "Create effective product positioning",
+    "Support successful product launches",
+    "Enable sales teams",
+    "Understand customer needs"
+  ],
+
+  "bestFor": [
+    "People interested in both business and technology",
+    "Strong communicators",
+    "Strategic thinkers",
+    "People who enjoy understanding customers",
+    "Cross-functional collaborators"
+  ],
+
+  "avoidIf": [
+    "You dislike presentations",
+    "You prefer highly technical coding roles",
+    "You dislike stakeholder management",
+    "You prefer highly structured work",
+    "You dislike writing"
+  ],
+
+  "requiredSkills": [
+    "Product Positioning",
+    "Go-To-Market Strategy",
+    "Communication",
+    "Storytelling",
+    "Market Research",
+    "Competitive Analysis",
+    "Customer Research",
+    "Presentation Skills"
+  ],
+
+  "collegeImportance": [
+    "Moderate",
+    "Top colleges may help initially",
+    "Experience and product knowledge matter more over time",
+    "Strong writing and communication often outweigh academic pedigree"
+  ],
+
+  "familyAdvantage": [
+    "Technology industry exposure",
+    "Startup ecosystem access",
+    "Professional networks",
+    "Business background"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "MBA (optional)",
+    "Marketing Experience",
+    "Product Knowledge",
+    "Technology Literacy"
+  ],
+
+  "realityCheck": [
+    "PMMs rarely create advertisements themselves",
+    "A significant part of the job involves writing, presentations, and research",
+    "You often have no direct authority but must influence many teams",
+    "Success depends heavily on cross-functional collaboration",
+    "Customer understanding matters more than marketing buzzwords",
+    "Many PMMs spend more time with sales teams than customers expect"
+  ],
+
+  "careerGrowth": [
+    "Marketing Associate",
+    "Product Marketing Associate",
+    "Product Marketing Manager",
+    "Senior Product Marketing Manager",
+    "Group Product Marketing Manager",
+    "Director of Product Marketing",
+    "VP Marketing",
+    "Chief Marketing Officer"
+  ],
+
+  "salary": {
+    "entry": "₹8-15 LPA",
+    "mid": "₹20-45 LPA",
+    "senior": "₹50 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Developing product messaging",
+    "Creating go-to-market strategies",
+    "Conducting customer research",
+    "Analyzing competitors",
+    "Supporting sales teams",
+    "Preparing launch materials",
+    "Working with product managers",
+    "Monitoring product adoption metrics"
+  ],
+
+  "challenges": [
+    "Aligning multiple stakeholders",
+    "Competing priorities",
+    "Launching unsuccessful products",
+    "Understanding customer needs accurately",
+    "Differentiating products in crowded markets",
+    "Balancing strategy and execution"
+  ],
+
+  "roadmap": [
+    "Learn marketing fundamentals",
+    "Develop business and communication skills",
+    "Understand product management concepts",
+    "Study customer research techniques",
+    "Gain experience in marketing, product, or SaaS companies",
+    "Build expertise in go-to-market strategy"
+  ],
+
+  "exitOpportunities": [
+    "Product Management",
+    "Growth Marketing",
+    "Brand Management",
+    "Sales Leadership",
+    "Corporate Strategy",
+    "Startup Founder",
+    "General Management",
+    "CMO Track"
+  ],
+
+  "futureOutlook": [
+    "Demand is growing rapidly in SaaS and technology companies",
+    "Product complexity increases the need for PMMs",
+    "AI products are creating new PMM opportunities",
+    "Go-to-market expertise remains highly valuable",
+    "Strong long-term career prospects"
+  ],
+
+  "recommendedResource": [
+    "Obviously Awesome by April Dunford",
+    "Product Marketing Alliance",
+    "Crossing the Chasm",
+    "Loved by Martina Lauchengco",
+    "Product Marketing Examples by PMA"
+  ]
+},
+{
+  "name": "Sales Engineer",
+
+  "summary": "A Sales Engineer combines technical expertise with sales skills to help customers evaluate, understand, and purchase complex products or solutions. They act as the bridge between the technical team and the customer during the sales process.",
+  
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Support the sales process with technical expertise",
+    "Help customers understand product value",
+    "Increase deal conversion rates",
+    "Build trust with technical stakeholders",
+    "Drive revenue growth",
+    "Ensure successful solution adoption"
+  ],
+
+  "bestFor": [
+    "Engineers who enjoy talking to people",
+    "Strong communicators",
+    "People who like both technology and business",
+    "Problem solvers",
+    "Individuals who dislike pure coding but enjoy technical work"
+  ],
+
+  "avoidIf": [
+    "You dislike presentations",
+    "You dislike customer interaction",
+    "You prefer deep technical specialization",
+    "You dislike travel",
+    "You dislike sales environments"
+  ],
+
+  "requiredSkills": [
+    "Technical Knowledge",
+    "Communication",
+    "Presentation Skills",
+    "Solution Design",
+    "Sales Fundamentals",
+    "Relationship Management",
+    "Business Acumen",
+    "Problem Solving"
+  ],
+
+  "collegeImportance": [
+    "Moderate",
+    "Engineering degree is often valued",
+    "Technical credibility matters more than college prestige",
+    "Communication skills become more important over time"
+  ],
+
+  "familyAdvantage": [
+    "Technology industry exposure",
+    "Business development network",
+    "Enterprise sales connections",
+    "Industry relationships"
+  ],
+
+  "qualifications": [
+    "Engineering Degree (Common)",
+    "Computer Science, IT, Electronics, Mechanical, or related fields",
+    "Technical Certifications",
+    "Industry Product Knowledge"
+  ],
+
+  "realityCheck": [
+    "Sales Engineers are not traditional salespeople",
+    "Customers often trust Sales Engineers more than Account Executives",
+    "You may spend significant time explaining technical concepts to executives",
+    "The role requires constant learning as products evolve",
+    "Performance impacts revenue, making the role highly visible",
+    "Many Sales Engineers earn more than software developers with similar experience"
+  ],
+
+  "careerGrowth": [
+    "Associate Sales Engineer",
+    "Sales Engineer",
+    "Senior Sales Engineer",
+    "Solutions Consultant",
+    "Principal Solutions Engineer",
+    "Manager of Sales Engineering",
+    "Director of Solutions Engineering",
+    "VP Solutions Engineering"
+  ],
+
+  "salary": {
+    "entry": "₹8-15 LPA",
+    "mid": "₹20-50 LPA",
+    "senior": "₹50 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Conducting product demonstrations",
+    "Meeting clients",
+    "Understanding customer requirements",
+    "Designing technical solutions",
+    "Supporting sales calls",
+    "Creating proof-of-concepts",
+    "Answering technical questions",
+    "Working with product and engineering teams"
+  ],
+
+  "challenges": [
+    "Balancing technical depth and business communication",
+    "Handling demanding enterprise customers",
+    "Keeping up with technology changes",
+    "Supporting complex sales cycles",
+    "Managing multiple stakeholders",
+    "Explaining technical concepts clearly"
+  ],
+
+  "roadmap": [
+    "Build strong technical foundations",
+    "Develop communication and presentation skills",
+    "Learn consultative selling",
+    "Gain experience with enterprise technologies",
+    "Understand customer business problems",
+    "Move into pre-sales or solutions engineering roles"
+  ],
+
+  "exitOpportunities": [
+    "Enterprise Sales",
+    "Product Management",
+    "Customer Success Leadership",
+    "Technology Consulting",
+    "Solutions Architecture",
+    "Business Development",
+    "Startup Founder",
+    "Revenue Leadership"
+  ],
+
+  "futureOutlook": [
+    "Strong demand due to increasing software complexity",
+    "AI and cloud technologies are creating more opportunities",
+    "Enterprise software growth drives hiring",
+    "Technical sales remains difficult to automate",
+    "Excellent compensation potential"
+  ],
+
+  "recommendedResource": [
+    "Mastering Technical Sales",
+    "The Challenger Sale",
+    "Demo2Win",
+    "Presales Collective",
+    "2Win! by Richard Muhleman"
+  ]
+},
+{
+  "name": "Enterprise Sales",
+
+  "summary": "Enterprise Sales involves selling high-value products or services to large organizations. Enterprise Sales professionals manage long sales cycles, multiple stakeholders, complex negotiations, and strategic business relationships to close large deals that can range from lakhs to crores of rupees.",
+
+  "difficulty": "Hard",
+
+  "goals": [
+    "Generate revenue",
+    "Acquire enterprise customers",
+    "Build long-term business relationships",
+    "Close high-value contracts",
+    "Expand strategic accounts",
+    "Drive company growth"
+  ],
+
+  "bestFor": [
+    "Strong communicators",
+    "Relationship builders",
+    "Highly ambitious individuals",
+    "People comfortable with pressure",
+    "Those interested in business and technology"
+  ],
+
+  "avoidIf": [
+    "You fear rejection",
+    "You dislike networking",
+    "You dislike negotiation",
+    "You want predictable outcomes",
+    "You dislike client-facing roles"
+  ],
+
+  "requiredSkills": [
+    "Sales",
+    "Negotiation",
+    "Relationship Management",
+    "Communication",
+    "Business Acumen",
+    "Presentation Skills",
+    "Account Management",
+    "Stakeholder Management"
+  ],
+
+  "collegeImportance": [
+    "Low to Moderate",
+    "Results matter significantly more than educational pedigree",
+    "Top colleges may help with initial access",
+    "Performance eventually outweighs credentials"
+  ],
+
+  "familyAdvantage": [
+    "Business family background",
+    "Corporate network",
+    "Industry relationships",
+    "Executive-level connections"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "Sales Experience",
+    "Industry Expertise",
+    "Product Knowledge"
+  ],
+
+  "realityCheck": [
+    "Enterprise sales is not aggressive selling; it is relationship management and problem solving",
+    "Deals often take 3-18 months to close",
+    "One deal may be worth more than hundreds of smaller sales",
+    "Top performers often earn extraordinary compensation",
+    "Quota pressure is real",
+    "Clients buy trust before they buy products"
+  ],
+
+  "careerGrowth": [
+    "Sales Development Representative (SDR)",
+    "Business Development Representative (BDR)",
+    "Account Executive",
+    "Enterprise Account Executive",
+    "Strategic Account Executive",
+    "Sales Manager",
+    "Director of Sales",
+    "VP Sales",
+    "Chief Revenue Officer (CRO)"
+  ],
+
+  "salary": {
+    "entry": "₹8-15 LPA",
+    "mid": "₹20-60 LPA",
+    "senior": "₹60 LPA - ₹3 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Meeting enterprise clients",
+    "Prospecting accounts",
+    "Running discovery calls",
+    "Managing sales pipelines",
+    "Negotiating contracts",
+    "Working with Sales Engineers",
+    "Building executive relationships",
+    "Closing strategic deals"
+  ],
+
+  "challenges": [
+    "Long sales cycles",
+    "Revenue targets",
+    "Competitive markets",
+    "Complex procurement processes",
+    "Managing multiple stakeholders",
+    "Unpredictable deal outcomes"
+  ],
+
+  "roadmap": [
+    "Develop communication skills",
+    "Learn consultative selling",
+    "Understand business fundamentals",
+    "Gain sales experience",
+    "Master enterprise sales methodologies",
+    "Build industry expertise"
+  ],
+
+  "exitOpportunities": [
+    "Sales Leadership",
+    "Business Development",
+    "Revenue Operations",
+    "Customer Success Leadership",
+    "Entrepreneurship",
+    "Partnerships",
+    "General Management",
+    "Startup Founder"
+  ],
+
+  "futureOutlook": [
+    "Enterprise software spending continues to grow",
+    "Complex solutions require skilled sales professionals",
+    "AI will support but not replace relationship selling",
+    "Top performers will remain highly compensated",
+    "Strong long-term demand"
+  ],
+
+  "recommendedResource": [
+    "The Challenger Sale",
+    "SPIN Selling",
+    "Never Split the Difference",
+    "MEDDICC",
+    "30 Minutes to President's Club"
+  ]
+},
+{
+  "name": "Account Executive",
+
+  "summary": "An Account Executive (AE) is responsible for managing the sales process from qualified lead to closed deal. AEs conduct discovery calls, demonstrate products, negotiate contracts, and generate revenue. In SaaS and B2B companies, the Account Executive is often the primary revenue-generating role.",
+
+  "difficulty": "Medium-Hard",
+
+  "goals": [
+    "Close new business deals",
+    "Generate revenue",
+    "Convert qualified leads into customers",
+    "Build client relationships",
+    "Achieve sales quotas",
+    "Expand company market share"
+  ],
+
+  "bestFor": [
+    "Strong communicators",
+    "Competitive individuals",
+    "Relationship builders",
+    "People who enjoy business conversations",
+    "Those motivated by performance-based rewards"
+  ],
+
+  "avoidIf": [
+    "You dislike talking to people",
+    "You fear rejection",
+    "You dislike sales targets",
+    "You want predictable compensation",
+    "You prefer technical work over business interaction"
+  ],
+
+  "requiredSkills": [
+    "Sales",
+    "Negotiation",
+    "Communication",
+    "Presentation Skills",
+    "Relationship Management",
+    "Business Acumen",
+    "CRM Management",
+    "Objection Handling"
+  ],
+
+  "collegeImportance": [
+    "Low",
+    "Performance matters significantly more than degrees",
+    "Top colleges may help with initial hiring",
+    "Results eventually outweigh credentials"
+  ],
+
+  "familyAdvantage": [
+    "Business background",
+    "Professional network",
+    "Sales exposure",
+    "Entrepreneurial environment"
+  ],
+
+  "qualifications": [
+    "Bachelor's Degree",
+    "Sales Experience",
+    "Product Knowledge",
+    "Industry Understanding"
+  ],
+
+  "realityCheck": [
+    "AEs are often the most directly revenue-responsible people in a company",
+    "Quota pressure is constant",
+    "Top performers can earn significantly more than managers",
+    "Not every month will be successful",
+    "Rejection is part of the profession",
+    "Income can fluctuate based on performance"
+  ],
+
+  "careerGrowth": [
+    "Sales Development Representative (SDR)",
+    "Business Development Representative (BDR)",
+    "Account Executive",
+    "Senior Account Executive",
+    "Enterprise Account Executive",
+    "Sales Manager",
+    "Director of Sales",
+    "VP Sales",
+    "Chief Revenue Officer (CRO)"
+  ],
+
+  "salary": {
+    "entry": "₹6-12 LPA",
+    "mid": "₹15-40 LPA",
+    "senior": "₹40 LPA - ₹1.5 Cr+"
+  },
+
+  "dayToDayWork": [
+    "Discovery calls",
+    "Product demonstrations",
+    "Following up with prospects",
+    "Negotiating contracts",
+    "Managing sales pipelines",
+    "Working with Sales Engineers",
+    "Updating CRM systems",
+    "Closing deals"
+  ],
+
+  "challenges": [
+    "Quota pressure",
+    "Customer objections",
+    "Competitive products",
+    "Long sales cycles",
+    "Revenue uncertainty",
+    "Managing multiple opportunities simultaneously"
+  ],
+
+  "roadmap": [
+    "Develop communication skills",
+    "Learn consultative selling",
+    "Master CRM platforms",
+    "Understand business fundamentals",
+    "Start as SDR or BDR",
+    "Progress into closing roles as an AE"
+  ],
+
+  "exitOpportunities": [
+    "Enterprise Sales",
+    "Sales Leadership",
+    "Business Development",
+    "Customer Success",
+    "Partnerships",
+    "Revenue Operations",
+    "Entrepreneurship",
+    "Startup Founder"
+  ],
+
+  "futureOutlook": [
+    "Strong demand across SaaS and technology companies",
+    "Revenue-generating roles remain critical",
+    "AI may automate prospecting but not relationship building",
+    "Top sales talent will continue to command premium compensation",
+    "Excellent long-term career prospects"
+  ],
+
+  "recommendedResource": [
+    "The Challenger Sale",
+    "SPIN Selling",
+    "Never Split the Difference",
+    "MEDDICC",
+    "30 Minutes to President's Club"
+  ]
+}
+    ]
+}
